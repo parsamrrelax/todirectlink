@@ -13,7 +13,7 @@ In telegram from botfather. create a new telegram bot and get your bot token and
 ```bash
 nano py.py
 ```
-the rub first.sh
+then run first.sh
 ```bash
 bash first.sh
 ```
